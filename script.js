@@ -6,4 +6,4 @@ setInterval(function(){
     document.getElementById("date").innerHTML =
         d.getDay() + "    " + d.getDate() + "-" + d.getMonth() + "-" + d.getFullYear()
     
-},1000)
+},100000)
